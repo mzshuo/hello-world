@@ -1,2 +1,3 @@
 # hello-world
-just a repository for learning GItHub operations.
+Just a repository for learning GItHub operations.
+And I add something here to extend my description file.
